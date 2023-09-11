@@ -48,3 +48,6 @@ span {
   color: white;
   transition: all 0.07s ease-in-out;
 }
+.navbar img {
+  filter: drop-shadow(3px 3px 10px yellow);
+}
