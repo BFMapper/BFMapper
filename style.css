@@ -33,6 +33,7 @@ span {
 }
 .navbar-menu li a:hover {
   opacity: 1;
+  filter: drop-shadow(3px 3px 10px yellow);
 }
 
 .navbar-wrap {
@@ -45,7 +46,7 @@ span {
   text-decoration: none;
 }
 .navbar-brand:hover {
-  color: white;
+  color: yellow;
   transition: all 0.07s ease-in-out;
 }
 .navbar img {
