@@ -30,6 +30,7 @@ span {
   text-decoration: none;
   padding: 10px;
   transition: all 0.07s ease-in-out;
+  font-family: "Bruno Ace", cursive;
 }
 .navbar-menu li a:hover {
   opacity: 1;
@@ -51,4 +52,20 @@ span {
 }
 .navbar img {
   filter: drop-shadow(3px 3px 10px yellow);
+}
+
+h1 {
+  font-family: "Bruno Ace", cursive;
+  color: yellow;
+  text-align: center;
+}
+h4 {
+  font-family: "Bruno Ace", cursive;
+  color: yellow;
+  text-align: center;
+}
+h2 {
+  font-family: "Bruno Ace", cursive;
+  color: yellow;
+  text-align: center;
 }
